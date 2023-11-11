@@ -3,7 +3,7 @@ This is the final project for module 2 wherein we will connect a metamask wallet
 
 ## Description
 Here I modified the index.js file only. Two new functions were added.
-1. depositAmount() - allows user to withdraw their desired amount of ethereum.
+1. depositAmount() - allows user to deposit their desired amount of ethereum.
 2. withdrawAmount() - allows user to withdraw their desired amount of ethereum.
 
 Front end css styles were also added to the code. 
